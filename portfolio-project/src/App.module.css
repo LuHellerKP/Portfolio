@@ -1,0 +1,20 @@
+.appContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: rgb(58, 129, 129);
+}
+
+.about{
+  background-color: rgb(80, 135, 28);
+}
+
+.projects{
+  background-color: sandybrown;
+}
+
+.contacts {
+  background-color: salmon;
+}
